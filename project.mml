@@ -55,7 +55,7 @@ Stylesheet:
   - style/addressing.mss
   - style/golf.mss
   - style/tourism.mss
-  -style/transparent-text.mss
+  - style/transparent-text.mss
 Layer:
   - id: landcover-low-zoom
     geometry: polygon

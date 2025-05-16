@@ -33,7 +33,19 @@
 #building-text,
 #addresses,
 #amenity-points,
-#bridges {
+#bridges,
+#bridge-text,
+#roads-text-ref-low-zoom,
+#roads-text-ref,
+#roads-area-text-name,
+#roads-text-name,
+#paths-text-name,
+#railways-text-name,
+#roads-text-ref-minor,
+#ferry-routes-text,
+#admin-text,
+#protected-areas-text,
+#county-names {
   text-opacity: 0;
   text-name: "";
   text-fill: transparent;
